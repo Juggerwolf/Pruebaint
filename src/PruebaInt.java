@@ -10,5 +10,6 @@ public class PruebaInt {
 
         int c = (a + b) / 5;
         System.out.println(c);
+        System.out.println("La rama desarrollo es errónea");
     }
 }

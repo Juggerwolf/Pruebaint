@@ -7,5 +7,7 @@ public class PruebaInt {
         int b = 2;
         int result = a + b;
         System.out.println(result);
+
+        int c = a - b;
     }
 }

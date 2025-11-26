@@ -9,5 +9,6 @@ public class PruebaInt {
         System.out.println(result);
 
         int c = (a + b) / 5;
+        System.out.println(c);
     }
 }
